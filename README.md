@@ -57,7 +57,7 @@ You can add notes and refresh the webpage to see the added notes. Then, view the
 
 <img width="945" alt="Screenshot (175)" src="https://user-images.githubusercontent.com/60068360/151931966-5b4ca741-cac2-4d54-a221-56a601938341.png">
 
-You can also delete or update the note on the detail page. Thank you:).
+You can also **delete** or **update** the note on the detail page using the **delete** and **put** button respectively. **Thank you:)**
 
 **Eureka! We have completed our first REST API project.**
 
